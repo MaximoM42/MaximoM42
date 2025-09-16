@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I’m a passionate Computer Science student at Universidad Atlántida, Argentina, always eager to learn and explore new technologies.
+I’m a passionate Computer Science student at [Universidad Atlántida](https://atlantida.edu.ar/), Argentina, always eager to learn and explore new technologies.
 
 💡 I enjoy building projects that solve real problems and make people’s lives easier. Currently, I’m working on FASTUDY, a website designed to help students learn in a simpler, faster, and more effective way.
 
