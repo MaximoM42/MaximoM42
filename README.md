@@ -2,7 +2,8 @@
 
 I’m a passionate Computer Science student at ***[Universidad Atlántida Argentina](https://atlantida.edu.ar/)***, always eager to learn and explore new technologies.
 
-💡 I enjoy building projects that solve real problems and make people’s lives easier. Currently, I’m working on FASTUDY, a website designed to help students learn in a simpler, faster, and more effective way.
+💡 I enjoy building projects that solve real problems and make people’s lives easier. Currently, 
+<!-- I’m currently working on FASTUDY, a website designed to help students learn in a simpler, faster, and more effective way. -->
 
 🔍️ I’m interested in **web development, backend systems, and data analysis**, and I’m always looking to expand my skills by experimenting with new technologies.
 
